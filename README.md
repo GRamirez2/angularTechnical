@@ -18,10 +18,10 @@ Your challenge is to create contact form using Reactive Forms in Angular 5.
     - `shouldAddToNewsletter` - boolean
 3. Add error handling
 4. Add success handling
-5. Style the forms to be centerd vertically and horizontally on the page
+5. Style the forms to be centered vertically and horizontally on the page
 
 ## Bonus
-- flex your html/ccs skills and style an interesting 404 page for the not-found.component.html
+- flex your html/css skills and style an interesting 404 page for the not-found.component.html
 - Create a service to handle API request/response
 - Create reusable components (ie. `TextFieldComponent` and `CheckboxComponent`)
 
