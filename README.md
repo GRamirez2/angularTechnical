@@ -4,7 +4,7 @@ Your challenge is to create contact form using Reactive Forms in Angular 5.
 
 ## Getting Started
 
-1. clone this repo
+1. fork and clone this repo
 2. `npm install`
 3. `npm run start` will start a live server on localhost:4200
 
