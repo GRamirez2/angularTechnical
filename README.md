@@ -25,5 +25,5 @@ Your challenge is to create contact form using Reactive Forms in Angular 5.
 - Create a service to handle API request/response
 - Create reusable components (ie. `TextFieldComponent` and `CheckboxComponent`)
 
-## Completetion 
+## Completion 
 - send a link to your repo to George and Crystal
